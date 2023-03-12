@@ -1,16 +1,6 @@
-# hover_effect_widget
+# On Hover Effect 
 
-Hover effect when cursor placed on widget
+The on hover effect is triggered when the user hovers over the widget with their mouse. The widget will change color when hovers over text.
+Sprung package is used to create smooth curve animations. [Sprung](https://pub.dev/packages/sprung) is an easy-to-consume Curve that uses real physics equations to drive the animations.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![on hover effect](https://user-images.githubusercontent.com/55737606/224518011-a18fa682-b540-43c2-a6a7-fb2a06a956f8.gif)
